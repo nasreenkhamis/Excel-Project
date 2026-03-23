@@ -13,7 +13,7 @@ The analysis focuses on data cleaning, exploration, and visualization to better 
 
 ---
 
-## 🎯 Project Objectives: 
+##  Project Objectives: 
 
 Analyze survival rate based on gender
 Study the impact of passenger class
@@ -21,7 +21,7 @@ Explore survival distribution by embarkation port
 Analyze age distribution of survivors
 Build an interactive dashboard
 
-## 🛠 Tools & Technologies:
+##  Tools & Technologies:
 
 Microsoft Excel
 Power Query

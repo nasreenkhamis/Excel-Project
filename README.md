@@ -41,3 +41,7 @@ Passengers in first class had higher survival chances than those in lower classe
 The survival distribution varied depending on the embarkation port.
 
 4️⃣ Age Distribution
+
+## 🔗 Live Dashboard
+
+You can explore the interactive dashboard here: [View Excel Report](https://1drv.ms/f/c/7d3f7d27ac88b226/IgDo_vSLB_8rSprEJuHhHuLGAbIODdiMS-ZnCnoXU8Iv8xw?e=oy3nRa)

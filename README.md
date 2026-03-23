@@ -1,6 +1,6 @@
 # 🚢 Titanic Data Analysis Project :
 
-## 📌 Project Overview :
+##  Project Overview :
 
 This project analyzes the famous Titanic dataset using Excel to uncover insights about the factors that influenced passenger survival.
 The analysis focuses on data cleaning, exploration, and visualization to better understand survival patterns.
@@ -29,18 +29,18 @@ DAX
 Data Visualization
 Basic Machine Learning Concepts
 
-## 📊 Key Insights:
+##  Key Insights:
 
-1️⃣ Survival by Gender
+* Survival by Gender
 Females had a significantly higher survival rate compared to males.
 
-2️⃣ Passenger Class Impact
+* Passenger Class Impact
 Passengers in first class had higher survival chances than those in lower classes.
 
-3️⃣ Embarkation Port Analysis
+* Embarkation Port Analysis
 The survival distribution varied depending on the embarkation port.
 
-4️⃣ Age Distribution
+* Age Distribution
 
 ## 🔗 Live Dashboard
 
